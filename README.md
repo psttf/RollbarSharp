@@ -1,12 +1,6 @@
 # RollbarSharp
 
-[![Build status](https://ci.appveyor.com/api/projects/status/m8wevja31t9fh2i3?svg=true)](https://ci.appveyor.com/project/AlbertoMonteiro/rollbarsharp)
-[![NuGet version](http://img.shields.io/nuget/v/Rollbarsharp.svg)](http://www.nuget.org/packages/RollbarSharp/)
-[![Nuget downloads](http://img.shields.io/nuget/dt/Rollbarsharp.svg)](http://www.nuget.org/packages/RollbarSharp/) 
-[![Coverage Status](https://coveralls.io/repos/mroach/RollbarSharp/badge.svg?branch=master&service=github)](https://coveralls.io/github/mroach/RollbarSharp?branch=master)
-
-
-.NET bindings for [Rollbar](http://www.rollbar.com).
+.NET bindings for [Rollbar](http://www.rollbar.com). Version for .Net Framework 4.0.
 
 I'm not affiliated with Rollbar, I just like their service.
 
